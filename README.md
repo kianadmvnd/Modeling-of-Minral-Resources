@@ -1,1 +1,2 @@
 # Modeling-of-Minral-Resources
+The main objective of this project was to evaluate the grade of Seridun Mine using drilling data from the fieldwork. Initially, Survey, Collar, and assay datasets were imported to Datamine Software to construct a block model from their composites. Then, Variography was employed to use its outcome in further steps such as grade estimation by the Ordinary Kriging method. Lastly, the Simulation of the ore model was performed in SGeMS software.
